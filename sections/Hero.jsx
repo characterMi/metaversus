@@ -32,14 +32,14 @@ const Hero = () => (
       >
         <div className="absolute w-full h-[300px] rounded-tl-[140px] z-[0] -top-[30px] hero-gradient" />
         <img
-          src="/cover.png"
+          src="./cover.png"
           alt="Cover"
           className="w-full sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-10 relative"
         />
         <a href="#explore">
           <div className="w-full flex justify-end sm:-mt-[70px] -mt-[50px] relative z-10 pr-[40px]">
             <img
-              src="/stamp.png"
+              src="./stamp.png"
               alt="Stamp"
               className="sm:w-[155px] w-[100px] sm:h-[155px] h-[100px] object-contain"
             />

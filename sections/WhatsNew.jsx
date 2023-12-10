@@ -32,7 +32,7 @@ const WhatsNew = () => (
         className={`flex-1 ${styles.flexCenter}`}
       >
         <img
-          src="/whats-new.png"
+          src="./whats-new.png"
           alt="Get Started"
           className="w-[90%] h-[90%] object-contain"
         />
