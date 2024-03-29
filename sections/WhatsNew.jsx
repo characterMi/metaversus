@@ -23,7 +23,7 @@ const WhatsNew = () => (
         <TitleText title={<>What's new about metaversus ?</>} />
         <div className="mt-[48px] flex flex-wrap justify-between gap-[24px]">
           {newFeatures.map((feature) => (
-            <NewFeatures key={feature} {...feature} />
+            <NewFeatures key={feature.title} {...feature} />
           ))}
         </div>
       </motion.div>

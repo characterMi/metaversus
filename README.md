@@ -1,34 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🗺️ Metaversus
 
-## Getting Started
+### a Fully Responsive website with a modern UI/UX and beautiful animations using Framer-motion
 
-First, run the development server:
+## Link 🔗 [https://charactermi.github.io/metaversus](https://charactermi.github.io/metaversus)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<br />
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Preview
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<img src="./preview_images/metaversus_first.png" alt="first" />
+<img src="./preview_images/metaversus_second.png" alt="second" />
+<img src="./preview_images/metaversus_third.png" alt="third" />
+<img src="./preview_images/metaversus_fourth.png" alt="fourth" />
+<img src="./preview_images/metaversus_fifth.png" alt="fifth" />
+<img src="./preview_images/metaversus_sixth.png" alt="sixth" />
+<img src="./preview_images/metaversus_seventh.png" alt="seventh" />
+<img src="./preview_images/metaversus_eighth.png" alt="eighth" />
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<br />
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# Mobile Responsive
 
-## Learn More
+<img src="./preview_images/metaversus_responsive.png" alt="responsive" />
 
-To learn more about Next.js, take a look at the following resources:
+# Technologies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<ul>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-html.svg" alt="HTML" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-css.svg" alt="Css" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-js.svg" alt="JS" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-react-native.svg" width="46" height="46" alt="React" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-nextjs.png" width="46" height="46" alt="Next.js" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/tailwind.svg" width="46" height="46" alt="Tailwind Css" />
+    </li>
+</ul>
