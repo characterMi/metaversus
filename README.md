@@ -27,21 +27,21 @@
 
 <ul>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-html.svg" alt="HTML" />
+        <img src="https://github.com/characterMi/characterMi/raw/main/images/technologies/icons8-html.svg" alt="HTML" />
     </li>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-css.svg" alt="Css" />
+        <img src="https://github.com/characterMi/characterMi/raw/main/images/technologies/icons8-css.svg" alt="Css" />
     </li>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-js.svg" alt="JS" />
+        <img src="https://github.com/characterMi/characterMi/raw/main/images/technologies/icons8-js.svg" alt="JS" />
     </li>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-react-native.svg" width="46" height="46" alt="React" />
+        <img src="https://github.com/characterMi/characterMi/raw/main/images/technologies/icons8-react-native.svg" width="46" height="46" alt="React" />
     </li>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-nextjs.png" width="46" height="46" alt="Next.js" />
+        <img src="https://github.com/characterMi/characterMi/blob/main/images/technologies/nextjs-original.svg" width="46" height="46" alt="Next.js" />
     </li>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/tailwind.svg" width="46" height="46" alt="Tailwind Css" />
+        <img src="https://github.com/characterMi/characterMi/raw/main/images/technologies/tailwind.svg" width="46" height="46" alt="Tailwind Css" />
     </li>
 </ul>
